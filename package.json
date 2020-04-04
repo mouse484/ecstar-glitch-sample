@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "node src/index"
+  },
+  "private": true,
   "dependencies": {
     "ecstar": "^3.2.2"
   }
