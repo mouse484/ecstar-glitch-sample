@@ -52,10 +52,10 @@ braces@~3.0.2:
   dependencies:
     fill-range "^7.0.1"
 
-chalk@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/chalk/-/chalk-3.0.0.tgz#3f73c2bf526591f574cc492c51e2456349f844e4"
-  integrity sha512-4D3B6Wf41KOYRFdszmDqMCGq5VV/uMAB273JILmO+3jAlh8X4qDtdtgCR3fxtbLEMzSx22QdhnDcJvu2u1fVwg==
+chalk@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.0.0.tgz#6e98081ed2d17faab615eb52ac66ec1fe6209e72"
+  integrity sha512-N9oWFcegS0sFr9oh1oz2d7Npos6vNoWW9HvtCg5N1KRFpUhaAhvTv5Y58g880fZaEYSNm3qDz8SU1UrGvp+n7A==
   dependencies:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
@@ -99,10 +99,10 @@ delayed-stream@~1.0.0:
   resolved "https://registry.yarnpkg.com/delayed-stream/-/delayed-stream-1.0.0.tgz#df3ae199acadfb7d440aaae0b29e2272b24ec619"
   integrity sha1-3zrhmayt+31ECqrgsp4icrJOxhk=
 
-discord.js@12.0.2:
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/discord.js/-/discord.js-12.0.2.tgz#c4d68f1363d7fc05ed71a42dba6b930966ed8602"
-  integrity sha512-iZiEA4Y61gqq/EjFfLXnkRK9pLapnax/vTVDUhs/mAhyqozAy0GOlk/MZI9rSa1iIoKTWRq6P9CRKhLNT2wUnA==
+discord.js@12.1.1:
+  version "12.1.1"
+  resolved "https://registry.yarnpkg.com/discord.js/-/discord.js-12.1.1.tgz#440043ab5a09d66311e8b975acd31bea4f8ed227"
+  integrity sha512-Y6+QfAUZkb9cy27cfNqUigAgYVSKTw9jPF3mN4UDMih3Em3VQ0WjGBdX1UbE8CwFkLOu5XWQSNPdsoStTR8c2Q==
   dependencies:
     "@discordjs/collection" "^0.1.5"
     abort-controller "^3.0.0"
@@ -113,14 +113,14 @@ discord.js@12.0.2:
     tweetnacl "^1.0.3"
     ws "^7.2.1"
 
-ecstar@^3.2.2:
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/ecstar/-/ecstar-3.2.2.tgz#5d7af4e9998b85e96adaa736270808985d245948"
-  integrity sha512-YIc7npRZuj1FATUjkOZc0K0EI5U0lIbiuf0p0xlB0XcQhN+WbZm8uXWpjmRX5Sizy7yPvtR2VCe2O7828hOIrA==
+ecstar@^3.2.4:
+  version "3.2.4"
+  resolved "https://registry.yarnpkg.com/ecstar/-/ecstar-3.2.4.tgz#5ce6892b8a4d9be7921a744ce29fb1033e944817"
+  integrity sha512-+E0n3xk7g8Md+y1ZgMdqTMslVbq9hJhKh7D5BbGNtR1Cc6aNocRHR8lsDHejwtMsOQYTW8cf8b3BrqJYFZGffA==
   dependencies:
-    chalk "^3.0.0"
+    chalk "^4.0.0"
     chokidar "^3.3.1"
-    discord.js "12.0.2"
+    discord.js "12.1.1"
     figures "^3.1.0"
     split-string "^6.1.0"
 
