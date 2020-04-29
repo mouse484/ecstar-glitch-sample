@@ -113,10 +113,10 @@ discord.js@12.1.1:
     tweetnacl "^1.0.3"
     ws "^7.2.1"
 
-ecstar@^3.2.4:
-  version "3.2.4"
-  resolved "https://registry.yarnpkg.com/ecstar/-/ecstar-3.2.4.tgz#5ce6892b8a4d9be7921a744ce29fb1033e944817"
-  integrity sha512-+E0n3xk7g8Md+y1ZgMdqTMslVbq9hJhKh7D5BbGNtR1Cc6aNocRHR8lsDHejwtMsOQYTW8cf8b3BrqJYFZGffA==
+ecstar@^3.2.5:
+  version "3.2.5"
+  resolved "https://registry.yarnpkg.com/ecstar/-/ecstar-3.2.5.tgz#e4d902d84e3277e411690e3c930467e39cc4fd30"
+  integrity sha512-GDVt+6xINQkX5DiUFI/8WWupuXyXOid5MxStwRsKvW1YRAvhnrv2IyABYxZbbUJZkp39gUIzmrfGy5ESV519PA==
   dependencies:
     chalk "^4.0.0"
     chokidar "^3.3.1"
