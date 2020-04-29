@@ -4,6 +4,6 @@
   },
   "private": true,
   "dependencies": {
-    "ecstar": "^3.2.4"
+    "ecstar": "^3.2.5"
   }
 }
